@@ -1,0 +1,40 @@
+{
+  "_from": "xuxin123",
+  "_id": "xuxin123@4.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-bQcUOxxBgmUMHCqfHL3OVRk1OKkVChe3uW//M0kaIKXw0+DgUpX4KD4hty0EmPutRnovt2oo55wWVR/eHPtbJg==",
+  "_location": "/xuxin123",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "xuxin123",
+    "name": "xuxin123",
+    "escapedName": "xuxin123",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/xuxin123/-/xuxin123-4.0.1.tgz",
+  "_shasum": "9c5edfea5f78a6ae26f2822e3c7884d1383f1084",
+  "_spec": "xuxin123",
+  "_where": "C:\\Users\\EDZ\\Desktop\\12",
+  "author": {
+    "name": "xuxin123"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "测试",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "xuxin123",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.1"
+}
